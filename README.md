@@ -1,9 +1,4 @@
-Andy Sloane 
-
-![image](https://scontent.fakl1-1.fna.fbcdn.net/v/t1.0-0/p206x206/11054350_10101562118494117_6067627214217252398_n.jpg?oh=08058761bdf77ac8ba6c5c4efa443e30&oe=58E0754C)
 # Andy Sloane 
-
-![image](https://scontent.fakl1-1.fna.fbcdn.net/v/t1.0-0/p206x206/11054350_10101562118494117_6067627214217252398_n.jpg?oh=08058761bdf77ac8ba6c5c4efa443e30&oe=58E0754C)
 
 ## Urban planning graduate with leaderships experience seeking role in resource management
 
