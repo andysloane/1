@@ -1,4 +1,4 @@
-## Andy Sloane 
+# Andy Sloane 
 
 # Urban planning graduate with leaderships experience seeking role in resource management
 
