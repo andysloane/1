@@ -1,6 +1,6 @@
-# <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.jekyll_platform}}">Andy Sloane</a>Urban planning graduate with leaderships experience seeking role in resource management</a>
+# <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.jekyll_platform}}">Andy Sloane </a>Urban planning graduate with leaderships experience seeking role in resource management</a>
 
-## Urban planning graduate with leaderships experience seeking role in resource management
+ 
 
    1. [Linkedin](https://www.linkedin.com/in/andysloane)
     
@@ -12,4 +12,4 @@
 
  
 
-<i class="fa fa-camera-retro fa-5x"></i> fa-5x
+<i class="fa fa-camera-retro fa-5x"></i>  
