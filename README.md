@@ -1,4 +1,6 @@
-# <a Andy Sloane </a> </a>Urban planning graduate with leaderships experience seeking role in resource management
+Andy Sloane 
+
+Urban planning graduate with leaderships experience seeking role in resource management
 
 
 
@@ -12,6 +14,4 @@
 
  
 
-
-<span class="label label-success">YAY</span>
 
