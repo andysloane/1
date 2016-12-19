@@ -11,5 +11,6 @@
 
 <i class="fa fa-camera-retro fa-5x"></i>  
 
-[<span class="label label-Linkedin">Success</span>](https://www.linkedin.com/in/andysloane)
+[<span class="label label-success">Linkedin</span>](https://www.linkedin.com/in/andysloane)
+
 <span class="label label-success">Success</span>
