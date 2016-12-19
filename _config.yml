@@ -1,8 +1,8 @@
 jekyll: build
 
 sidebar:
--Linkedin
--Portfolio 
+-Linkedin{% https://www.linkedin.com/in/andysloane %}
+-Portfolio{% https://readymag.com/u98679279/andysloane/ %}
 
 
 
