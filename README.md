@@ -1,5 +1,8 @@
 # <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.jekyll_platform}}">Andy Sloane </a>Urban planning graduate with leaderships experience seeking role in resource management
 
+
+
+
  
 ## links 
 -  [Linkedin](https://www.linkedin.com/in/andysloane)
