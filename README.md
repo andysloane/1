@@ -10,3 +10,5 @@
 
    4. [CCC - Look Again Campaign](https://www.youtube.com/watch?v=6Mei7Nr9bRs)
 
+ a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.jekyll_platform}}">Andy Sloane</a> Urban planning graduate with leaderships experience seeking role in resource management.</a>
+
